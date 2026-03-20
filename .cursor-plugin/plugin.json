@@ -1,0 +1,10 @@
+{
+  "name": "robotstxt-ai",
+  "displayName": "robotstxt.ai - AI Crawler Manager",
+  "author": "sharozdawa",
+  "description": "Analyze and generate robots.txt files with AI crawler awareness. Manage GPTBot, ClaudeBot, PerplexityBot, Google-Extended, and 20+ AI bots.",
+  "keywords": ["robots.txt", "AI crawler", "SEO", "GPTBot", "ClaudeBot", "PerplexityBot"],
+  "license": "MIT",
+  "version": "1.0.0",
+  "repository": "https://github.com/sharozdawa/robotstxt-ai"
+}
