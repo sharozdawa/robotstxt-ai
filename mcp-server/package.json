@@ -1,9 +1,14 @@
 {
   "name": "robotstxt-ai-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "mcpName": "io.github.sharozdawa/robotstxt-ai",
   "description": "MCP server for robots.txt parsing, analysis, and generation with AI bot detection",
   "author": "sharozdawa",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sharozdawa/robotstxt-ai.git"
+  },
   "type": "module",
   "bin": {
     "robotstxt-ai-mcp": "./dist/index.js"
