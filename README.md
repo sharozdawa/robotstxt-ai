@@ -7,6 +7,7 @@
 ![npm](https://img.shields.io/npm/v/robotstxt-ai-mcp?style=flat-square&color=22c55e)
 ![GitHub stars](https://img.shields.io/github/stars/sharozdawa/robotstxt-ai?style=flat-square&color=22c55e)
 ![License](https://img.shields.io/github/license/sharozdawa/robotstxt-ai?style=flat-square)
+[![robotstxt-ai MCP server](https://glama.ai/mcp/servers/sharozdawa/robotstxt-ai/badges/score.svg)](https://glama.ai/mcp/servers/sharozdawa/robotstxt-ai)
 
 **Manage which AI bots can crawl your website — visually.**
 
